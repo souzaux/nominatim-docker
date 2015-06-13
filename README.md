@@ -5,7 +5,7 @@ Run [http://wiki.openstreetmap.org/wiki/Nominatim](http://wiki.openstreetmap.org
 Uses Ubuntu 14.04 and PostgreSQL 9.3
 
 # Country
-It downloads Europe/Monacco (latest) from geofabrik.de.
+It downloads Europe/Bulgaria (latest) from geofabrik.de.
 
 If a different country should be used, change the wget line in the Dockerfile to pull a different country file.
 # Building
